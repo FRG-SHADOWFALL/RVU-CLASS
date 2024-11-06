@@ -7,7 +7,7 @@ import pandas as pd
 
 
 # --- Title and Introduction ---
-st.title("Interactive Visualizations with Plotly and Streamlit")
+st.title("Interactive Visualizations with Plotly and Streamlit Done By Siddharth Ravishankar")
 
 
 # --- Input for Author Information ---
