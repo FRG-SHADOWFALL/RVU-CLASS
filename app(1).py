@@ -7,7 +7,8 @@ import pandas as pd
 # --- Title and Introduction ---
 st.title("RVU Visualization Workshop")
 st.write("### Author: Siddharth Ravishankar")
-st.write("Interactive Visualizations with Plotly and Streamlit")
+st.write("#Section-F")
+st.subheader("Interactive Visualizations with Plotly and Streamlit")
 
 # --- Input for Author Information ---
 st.sidebar.header("Visualization Skill Workshop - Plotly")
